@@ -1,7 +1,7 @@
 ### Hey there!
 
 - 🌱 I’m currently working on my Masters in Environmental Data Science at the Bren School of the Environment at University of California, Santa Barbara. 
-- 📚 I’m currently learning RStudio! Python! GitHub! To cook for myself! 
+- 📚 I’m currently learning RStudio! Python! GitHub! To cook more! 
 - 💬 Ask me about child nutrition programs! I am passionate about environmental justice; my previous work includes management of urban-food-system-expanding programs in Oakland, California. 
 - 📫 How to reach me: scout@bren.ucsb.edu
 - 😄 Pronouns: she/her
